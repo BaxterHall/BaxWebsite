@@ -1,0 +1,194 @@
+
+  @media screen and (max-width:680px) {
+  ul.topnav li.icon {
+    display: inline-block;
+    
+  }
+
+}
+  @media screen and (max-width:680px) {
+  ul.topnav.responsive {position: relative;}
+  ul.topnav.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;}
+  ul.topnav.responsive li {
+   
+    display: inline;
+  }
+  ul.topnav.responsive li a {
+    display: block;
+    text-align: left;
+  }
+  
+  }
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ul.topnav li {
+  float: left;
+}
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 15px;
+  }
+ul.topnav li a:hover {
+  background-color: #555;
+  }
+body {
+  margin: 0;
+  padding-top: 70px;
+  font-family: "adriane", Georgia, serif;
+  /*min-height: calc(100vh - 70px);*/
+
+}
+.contact {
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 35%;
+}
+.homeheader {
+   text-align: center;
+   font-variant: small-caps
+}
+/*home page*/
+.headshot {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  top: 20%;
+}
+  .briefintro {
+  padding: 40px;
+}
+.briefintro {
+  text-align: center; 
+}
+/*about page*/
+.cooking {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.about{
+  padding: 40px;
+}
+.aboutme {
+  text-align: center;
+  padding: 20px;
+  font-size: 50px;
+  font-variant: small-caps
+}
+.music {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  top: 20%;
+}
+/* portfolio page*/
+.portfolio {
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px;
+  font-size: 50px;
+  font-variant: small-caps
+}
+.recordapi {
+  display: inline-block;
+  position: relative;
+}
+.align-api{
+  text-align: center;
+  text-decoration: underline; 
+}
+.record-text {
+  height: 473.93px;
+}
+.record-text > p {
+  top: 45%;
+  position: relative;
+}
+.mockhome {
+  height: 100%;
+  width: 100%;
+  float: left;
+}
+.journal {
+  display: inline-block;
+  position: relative;
+}
+
+.align-blog{
+  text-align: center;
+  text-decoration: underline;
+}
+.journal-text {
+  height: 473.93px;
+}
+.journal-text > p {
+  top: 45%;
+  position: relative;
+}
+.mockjournal {
+  height: 100%;
+  width: 100%;
+  float: left;
+}
+.movieapi {
+  display: inline-block;
+  position: relative;
+}
+.align-movie{
+  text-align: center;
+  text-decoration: underline;
+}
+.movie-text {
+  height: 473.93px;
+}
+.movie-text > p {
+  top: 45%;
+  position: relative;
+}
+.mockmovie {
+  height: 100%;
+  width: 100%;
+  float: left;
+}
+/*footer*/
+footer{
+  background-color: #333;
+  color: #f2f2f2;
+  text-align: center;
+  margin: 0px;
+  height: 40px;
+  width: 100%;
+}
+a:hover {
+  color: #555;
+  }
+.insta {
+  padding: 15px;
+  color: white;
+}
+.twitta {
+  padding: 15px;
+  color: white;
+}
+.linked {
+  padding: 15px;  
+  color: white;
+}
+.git {
+  padding: 15px;  
+  color: white;
+}
