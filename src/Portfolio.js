@@ -1,5 +1,5 @@
 import React from 'react';
-import { Router, Route, browserHistory, Link } from 'react-router';
+import { Link } from 'react-router';
 import './index.css';
 
 class Portfolio extends React.Component {
@@ -23,7 +23,7 @@ class Portfolio extends React.Component {
                         </div>
                         <div className='recordapi'>
                             <div className="col-sm-6">
-                                <h3 className='align-api'>Record API</h3>
+                                <h3 className='align-api'>Music Catalog API</h3>
                                 <div className='mockhomecontainer'>
                                     <img className='mockhome' src="image/Homepage.png" alt="Mock Homepage" />
                                 </div>
@@ -38,7 +38,7 @@ class Portfolio extends React.Component {
                                 </p>
                             </div>
                             <div className="col-sm-6">
-                                <h3 className='align-blog'>Blog</h3>
+                                <h3 className='align-blog'>Express Blog</h3>
                                 <div className='mockjournalcontainer'>
                                     <img className='mockjournal' src="image/journal.png" alt="Mock Journal" />
                                 </div>

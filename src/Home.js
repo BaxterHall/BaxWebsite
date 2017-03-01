@@ -1,5 +1,5 @@
 import React from 'react'
-import { Router, Route, browserHistory, Link } from 'react-router';
+import { Link } from 'react-router';
 import App from './App'
 import Footer from './Footer'
 

@@ -48,7 +48,7 @@ body {
   margin: 0;
   padding-top: 70px;
   font-family: "adriane", Georgia, serif;
-  /*min-height: calc(100vh - 70px);*/
+  min-height: calc(100vh - 40px);
 
 }
 .contact {
@@ -68,11 +68,16 @@ body {
   position: relative;
   top: 20%;
 }
-  .briefintro {
-  padding: 40px;
-}
 .briefintro {
   text-align: center; 
+  padding: 40px;
+  font-size: 16px;
+}
+.baxter {
+  font-size: 25px;
+}
+.whatIKnow{
+  font-size: 25px;
 }
 /*about page*/
 .cooking {
@@ -110,9 +115,11 @@ body {
 .align-api{
   text-align: center;
   text-decoration: underline; 
+  font-size: 30px;
 }
 .record-text {
   height: 473.93px;
+  font-size: 18px;
 }
 .record-text > p {
   top: 45%;
@@ -131,9 +138,11 @@ body {
 .align-blog{
   text-align: center;
   text-decoration: underline;
+  font-size: 30px;
 }
 .journal-text {
   height: 473.93px;
+  font-size: 18px;
 }
 .journal-text > p {
   top: 45%;
@@ -151,13 +160,16 @@ body {
 .align-movie{
   text-align: center;
   text-decoration: underline;
+  font-size: 30px;
 }
 .movie-text {
   height: 473.93px;
+  font-size: 18px;
 }
 .movie-text > p {
   top: 45%;
   position: relative;
+  
 }
 .mockmovie {
   height: 100%;
@@ -166,6 +178,9 @@ body {
 }
 /*footer*/
 footer{
+  
+  position:fixed;
+  bottom: 0;
   background-color: #333;
   color: #f2f2f2;
   text-align: center;
