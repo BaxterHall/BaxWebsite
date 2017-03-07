@@ -13,11 +13,12 @@ class Portfolio extends React.Component {
                     <ul className="topnav">
                         <li><Link to="/">Home</Link></li>
                         <li><Link to="/About">About</Link></li>
+                        <li><Link to="/Resume">Resume</Link></li>
                         <li><a className='contact' href="mailto:abaxterhall@gmail.com?Subject=Hello" target="_top">Contact Me</a></li>
                     </ul>
                 </nav>
                 <div className='row'>
-                    <div className='col-xs-12 col-sm-10 col-sm-offset-1 col-md-10 col-md-offset-1'>
+                    <div className='col-xs-12 col-sm-10 col-sm-offset-1 col-md-10 col-md-offset-1 project'>
                         <div className='portfolioheader'>
                             <h2 className="portfolio">Previous Projects</h2>
                         </div>
