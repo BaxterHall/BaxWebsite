@@ -76,7 +76,7 @@ body {
 .briefintro {
   text-align: center; 
   padding: 40px;
-  font-size: 10px;
+  font-size: 15px;
 }
 .baxter {
   font-size: 20px;
@@ -100,7 +100,7 @@ body {
   font-variant: small-caps; 
 }
 .about-me{
-  font-size: 15px;
+  font-size: 40px;
 }
 .music {
   height: 100%;
@@ -199,7 +199,7 @@ body {
   text-align:center;
   padding: 60px;
   font-variant:small-caps;
-  font-size: 40px;
+  font-size: 30px;
 }
 .thumbs{
   text-align: center;
