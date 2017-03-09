@@ -13,12 +13,12 @@ class App extends Component {
             <img className="headshot" src='image/headshot.jpg' alt="headshot" />
             <div className="briefintro">
               <p className="baxter-intro">
-                Im currently a student in the Web Development Bootcamp at Brainstation.
-                Looking for fulltime and freelance work.
+                I'm currently a student in the Web Development Bootcamp at Brainstation.
+                I'm available for Full-Time and Freelance Work.
              </p>
              <h3 className='whatIKnow'>What I Know</h3>
               <p className="baxter-intro">
-                Im skilled in HTML, CSS, Node.js, jQuery, Vanilla Javascript, ReactJS, MongoDB, PostgreSQL, and have a keen eye for design.
+                I'm skilled in: HTML, CSS, Node.js, jQuery, Vanilla Javascript, ReactJS, MongoDB, PostgreSQL, and have a keen eye for design.
               </p>            
             </div>
           </div>

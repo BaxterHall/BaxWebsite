@@ -108,6 +108,12 @@ body {
   position: relative;
   top: 20%;
 }
+.warmframes{
+  color:black;
+}
+.warmframes:visited{
+  color:black;
+}
 /* portfolio page*/
 /*.portfolio {
   text-align: center;
@@ -208,10 +214,9 @@ body {
 .img-responsive{
   width:100%;
 }
-a{
-  color:black;
-}
+
 /*resume*/
+
 @keyframes fadeInLoad {
     from {
         opacity:0;
@@ -220,6 +225,8 @@ a{
         opacity:1;
     }
 }
+
+
 .resume{
   text-align:center;
   font-size:25px;
@@ -234,6 +241,12 @@ a{
 }
 .school,.sanagan, .barisabel,.torst,.boulud,.gourmet,.noodlebox,.jazzfest,.joeys, {
   font-size: 10px;
+}
+.canadasbest{
+  color:black;
+}
+.canadasbest:visit{
+  color:black;
 }
 .workin{
   text-decoration:underline;

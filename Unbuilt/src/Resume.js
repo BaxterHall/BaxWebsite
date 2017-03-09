@@ -55,7 +55,7 @@ class Resume extends React.Component {
                                 <ul className='barisabel'>
                                     <li>Bar Isabel - Chef de Partie - June 2015/March 2016 Toronto, ON
                                         <ul>
-                                            <li><a href="http://canadas100best.com/no-8-bar-isabel/">Voted 8th Best Restaurant in Canada during time of employment</a></li>
+                                            <li><a className="canadasbest" target="_blank" href="http://canadas100best.com/no-8-bar-isabel/">Voted 8th Best Restaurant in Canada during time of employment</a></li>
                                             <li>Maintained high quality standards and safety through the execution of company policies and guidelines</li>
                                             <li>Effectively communicated expectations to team members, increasing efficiency</li>
                                             <li>Butchery and portioning of various proteinst</li>
