@@ -12,7 +12,7 @@ class Portfolio2 extends React.Component {
         return (
          
                 <div className='container-fluid'>
-                    <nav className="navbar navbar-default navbar-fixed-top">
+                    <nav className="navbar navbar  navbar-fixed-top">
                         <ul className="topnav">
                             <li><Link to="/">Home</Link></li>
                             <li><Link to="/About">About</Link></li>

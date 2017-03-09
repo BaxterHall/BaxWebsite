@@ -9,7 +9,7 @@ class About extends React.Component {
     render() {
         return (
             <div className='container'>
-                <nav className="navbar navbar-default navbar-fixed-top">
+                <nav className="navbar navbar  navbar-fixed-top">
                     <div className="container1">
                         <ul className="topnav">
                             <li><Link to="/">Home</Link></li>

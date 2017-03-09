@@ -11,7 +11,7 @@ class Home extends React.Component {
     render() {
         return (
             <div>
-                <nav className="navbar navbar-default navbar-fixed-top">
+                <nav className="navbar navbar navbar-fixed-top">
                     <div className="container1">
                         <ul className="topnav">
                             <li><Link to="/">Home</Link></li>
