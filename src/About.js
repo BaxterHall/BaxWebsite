@@ -15,7 +15,7 @@ class About extends React.Component {
                             <li><Link to="/">Home</Link></li>
                             <li><Link to="/Portfolio">Portfolio</Link></li>
                             <li><Link to="/Resume">Resume</Link></li>
-                            <li><a className='contact' href="mailto:abaxterhall@gmail.com?Subject=Hello" target="_top">Contact Me</a></li>
+                            <li><a className='contact' href="mailto:alexanderbaxterhall@gmail.com?Subject=Hello" target="_top">Contact Me</a></li>
                         </ul>
                     </div>
                 </nav>

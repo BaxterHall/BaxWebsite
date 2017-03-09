@@ -15,8 +15,8 @@ class Resume extends React.Component {
                         <ul className="topnav">
                             <li><Link to="/">Home</Link></li>
                             <li><Link to="/About">About</Link></li>
-                            <li><Link to="/Portfolio">Portfolio</Link></li>                           
-                            <li><a className='contact' href="mailto:abaxterhall@gmail.com?Subject=Hello" target="_top">Contact Me</a></li>
+                            <li><Link to="/Portfolio">Portfolio</Link></li>                       
+                            <li><a className='contact' href="mailto:alexanderbaxterhall@gmail.com?Subject=Hello" target="_top">Contact Me</a></li>
                             <li><a href="/BaxterHallResume2017.pdf" download="BaxterHallResume2017.pdf">Download Resume</a></li>
                         </ul>
                     </div>
@@ -24,7 +24,7 @@ class Resume extends React.Component {
                 <div className='row'>
                     <div className='col-xs-12 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3'>
                         <div className='containerheader'>
-                            <h2 className="aboutme">Resume</h2>
+                            <h2 className="resume">Resume</h2>
                         </div>
                         <div className="Education">
                             <h4 className='educate'>Education</h4>
