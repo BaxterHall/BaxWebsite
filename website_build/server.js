@@ -13,3 +13,7 @@ app.listen(PORT,() => {
 	console.log("Listening on Port:%s",PORT)
 	console.log("Stop with Ctrl+C");
 });
+
+app.get('*', (req, res) => {
+    res.sendFile('index.html',{root: __dirname + '/build'});
+});
