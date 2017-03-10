@@ -3,16 +3,43 @@
   ul.topnav li.icon {
     display: inline-block;
     
+    
   }
-
+footer{
+  
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #333;
+  color: #f2f2f2;
+  text-align: center;
+  margin: 0px;
+  width: 100%;
+  
+}
 }
   @media screen and (max-width:680px) {
   ul.topnav.responsive {position: relative;}
   ul.topnav.responsive li.icon {
     position: absolute;
     right: 0;
-    top: 0;}
-    
+    top: 0;
+    }
+   footer{
+  
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #333;
+  color: #f2f2f2;
+  text-align: center;
+  margin: 0px;
+  width: 100%;
+  
+} 
+
 
 …
 
@@ -294,7 +321,6 @@ footer{
   color: #f2f2f2;
   text-align: center;
   margin: 0px;
-
   width: 100%;
   
 }
