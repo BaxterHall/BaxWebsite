@@ -242,10 +242,10 @@ body {
 .school,.sanagan, .barisabel,.torst,.boulud,.gourmet,.noodlebox,.jazzfest,.joeys, {
   font-size: 10px;
 }
-.canada{
+.issylink{
   color:black;
 }
-.canada:visit{
+.issylink:visited{
   color:black;
 }
 .workin{
