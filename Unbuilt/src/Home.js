@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router';
-import App from './App'
-import Footer from './Footer'
+import App from './App';
+import Footer from './Footer';
 
 
 class Home extends React.Component {

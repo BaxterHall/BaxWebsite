@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
+import Footer from './Footer'
 
 
 
@@ -142,6 +143,7 @@ class Resume extends React.Component {
                             </div> {/*closes work*/}
                         </div> {/*closes column*/} 
                  </div> {/*close row */}
+                 <Footer />
             </div> 
                  
         )

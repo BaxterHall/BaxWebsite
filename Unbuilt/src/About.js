@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router';
-
+import Footer from './Footer'
 
 class About extends React.Component {
     componentDidMount() {
@@ -39,6 +39,7 @@ class About extends React.Component {
                         </div>
                     </div>
                 </div>
+                <Footer />
             </div>
         )
     }
