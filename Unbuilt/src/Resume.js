@@ -35,7 +35,7 @@ class Resume extends React.Component {
                             </ul>
                         </div>
                         <div className='Work'>
-                            <h4 className='workin'>Work Experience</h4>                            
+                            <h4 className='workin'>Prior Employment</h4>                            
                             <div className="Sanagans">
                                 <ul className='sanagan'>
                                     <li>Sanagans' Meat Locker - Butcher - March 2016/January 2017 - Toronto, ON
