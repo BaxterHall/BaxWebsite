@@ -28,7 +28,7 @@ class Portfolio2 extends React.Component {
                         <div className='row'>
                             <div className='col-sm-4'>
                                 <a href="https://github.com/BaxterHall/Record-Api" target="_blank"> <img src="image/Homepage.png" className='img-responsive mock-record' alt='Mock Record Homepage' /></a>
-                               <p>I created a website using a server-side templating engine: ejs, where i was able to retrieve dynamic data from an API called Discogs to display information about Musicians, Labels and Releases based upon an input by the user.</p>
+                               <p>I created a website using a server-side templating engine: ejs, where I was able to retrieve dynamic data from an API called Discogs to display information about Musicians, Labels and Releases based upon an input by the user.</p>
 
                             </div>
                             <div className='col-sm-4'>
