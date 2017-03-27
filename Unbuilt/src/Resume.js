@@ -32,7 +32,7 @@ class Resume extends React.Component {
                             <ul className='school'>
                                 <li>BrainStation: Web Development - 2017 - Toronto, ON</li>
                                 <li>George Brown College: Culinary Management - 2014/2015  - Toronto, ON</li>
-                                <li>Langara College: Arts/Arts Studies - 2009/2011 - Vancouver,BC </li>
+                                <li>Langara College: Arts/Arts Studies - 2008/2011 - Vancouver,BC </li>
                             </ul>
                         </div>
                         <div className='Work'>

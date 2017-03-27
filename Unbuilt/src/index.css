@@ -148,6 +148,12 @@ body {
 .warmframes:visited{
   color:black;
 }
+.photo{
+  color:black;
+}
+.photo:visited{
+  color:black;
+}
 /* portfolio page*/
 /*.portfolio {
   text-align: center;
@@ -263,7 +269,7 @@ body {
 
 .resume{
   text-align:center;
-  font-size:25px;
+  font-size:50px;
   font-variant: small-caps
 }
 .skills{
@@ -285,35 +291,29 @@ body {
 .workin{
   text-decoration:underline;
 }
-.Education{
+.skill{
   animation: fadeInLoad 2s;
 }
-.workin{
+.Education{
   animation: fadeInLoad 3s;
 }
-.Sanagans{
+.workin{
    animation: fadeInLoad 3.5s;
 }
-.Isabel{
+.development{
   animation: fadeInLoad 4s;
 }
-.Luksus{
+.sanagan{
   animation: fadeInLoad 4.5s;
 }
-.dbar{
+.Isabel{
   animation: fadeInLoad 5s;
 }
-.Lazy{
+.Luksus{
   animation: fadeInLoad 5.5s;
 }
-.noodles{
+.personal{
   animation: fadeInLoad 6s;
-}
-.Jazz {
-  animation: fadeInLoad 6.5s;
-}
-.joey{
-  animation: fadeInLoad 7s;
 }
 /*footer*/
 footer{
@@ -337,19 +337,30 @@ a:visited{
    color: #f2f2f2;
 }
 .insta {
-  padding-right: 5px;
+  /*padding-right: 5px;*/
   color: white;
+  /*position:relative;
+  float: right;*/
+  right: 9%;
 }
 .twitta {
-  padding-right: 5px;
+  /*padding-right: 5px;*/
   color: white;
+  position: relative;
+  right: 6%;
 }
 .linked {
-  padding-right: 5px;  
+  /*padding-right: 5px;  */
   color: white;
+  position: relative;
+  right: 3%;
 }
 .git {
-  right: 5px;  
+  /*right: 5px;  */
   color: white;
-  padding-bottom: 0px;
+  position: relative;
+  right: 0%;
+}
+.footertext{
+  color: white;
 }

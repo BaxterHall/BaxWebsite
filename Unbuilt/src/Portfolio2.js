@@ -1,7 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router';
 import './index.css';
 import Footer from './Footer';
+import NavBar from './Navbar'
 
 
 class Portfolio2 extends React.Component {
@@ -12,14 +12,7 @@ class Portfolio2 extends React.Component {
         return (
          
                 <div className='container-fluid'>
-                    <nav className="navbar navbar  navbar-fixed-top">
-                        <ul className="topnav">
-                            <li><Link to="/">Home</Link></li>
-                            <li><Link to="/About">About</Link></li>
-                            <li><Link to="/Resume">Resume</Link></li>
-                            <li><a className='contact' href="mailto:alexanderbaxterhall@gmail.com?Subject=Hello" target="_top">Contact Me</a></li>
-                        </ul>
-                    </nav>
+                        <NavBar/>
                     <div>
                         <div className="container">
                             <h1 className="portfolio-header">Previous Projects</h1>
