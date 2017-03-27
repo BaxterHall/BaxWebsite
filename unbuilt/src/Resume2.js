@@ -23,9 +23,9 @@ class Resume2 extends React.Component {
                             <h4 className='techincal'>Technical:</h4>
                             <p>HTML/CSS, SASS, LESS, JavaScript, jQuery, Reactjs, Node.js, MongoDB, PostgreSQL, Express, Git.</p>
                             <h4 className='web'>Web/UI Design:</h4>
-                            <p>Wordpress, Fine Arts through education. Skilled at writing well-designed, testable and efficient code using current practices in web design and development.</p>
+                            <p>I'm proficent at Wordpress. I'm skilled at writing well-designed, testable and efficient code using current practices in web design and development.</p>
                             <h4 className='inter'>Interpersonal:</h4>
-                            <p>Highly motivated with an eye for details. Excellent time management skills. Able to work as an individual or a team member.</p>
+                            <p>I'm highly motivated with a keen eye for design, and excellent at time management. I'm able to work as an individual or as a team member.</p>
                         </div>
                         <div className="Education">
                             <h3 className='educate'>Education:</h3>
