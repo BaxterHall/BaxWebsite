@@ -43,8 +43,6 @@ footer{
 } 
 
 
-…
-
 
   ul.topnav.responsive li { 
     display: inline;
@@ -54,7 +52,7 @@ footer{
     text-align: left;
   }
   
-  }
+}
 ul.topnav {
     list-style-type: none;
     margin: 0;
@@ -114,6 +112,7 @@ body {
 }
 .baxter {
   font-size: 20px;
+  font-variant: small-caps;
 }
 .whatIKnow{
   font-size: 20px;
@@ -238,6 +237,10 @@ body {
 }*/
 
 /*Portfolio2*/
+.whatsCookin{
+  text-align:center;
+  width:400px;
+}
 .container-fluid{
   padding: 0px;
 }
@@ -300,21 +303,25 @@ body {
 .workin{
    animation: fadeInLoad 3.5s;
 }
+.newcomBusiness{
+  animation: fadeInLoad 4s
+}
 .development{
-  animation: fadeInLoad 4s;
+  animation: fadeInLoad 4.5;
 }
 .sanagan{
-  animation: fadeInLoad 4.5s;
-}
-.Isabel{
   animation: fadeInLoad 5s;
 }
-.Luksus{
+.Isabel{
   animation: fadeInLoad 5.5s;
 }
-.personal{
+.Luksus{
   animation: fadeInLoad 6s;
 }
+.personal{
+  animation: fadeInLoad 6.5s;
+}
+
 /*footer*/
 footer{
   
@@ -350,10 +357,10 @@ a:visited{
   right: 6%;
 }
 .linked {
-  /*padding-right: 5px;  */
+  padding-right: 5px;  
   color: white;
   position: relative;
-  right: 3%;
+  right: 6%;
 }
 .git {
   /*right: 5px;  */

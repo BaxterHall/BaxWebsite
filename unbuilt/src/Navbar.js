@@ -15,24 +15,18 @@ class Navbar extends Component {
                         <li><Link to="/Portfolio">Portfolio</Link></li>
                         <li><Link to="/Resume">Resume</Link></li>
                         <li><a className='contact' href="mailto:alexanderbaxterhall@gmail.com?Subject=Hello" target="_top">Contact Me</a></li>
-
-                        <li className='navbar-right'>
-                            <a className='twitta' title="follow me on Twitter" href="http://www.twitter.com/hawkbrogen" target="_blank" >
-                                <i className="fa fa-twitter-square fa-lg" aria-hidden="true"></i>
-                            </a>
-                        </li>
-                        <li className='navbar-right'>
+                        <li className=''>
                             <a className='linked' title="add me on linkedIn" href="http://ca.linkedin.com/pub/baxter-hall/103/265/782" target="_blank" >
                                 <i className="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>
                             </a>
                         </li>
-                        <li className='navbar-right'>
+                        <li className=''>
                             <a className='git' title="check out my github"
                                 href="http://github.com/BaxterHall" target="_blank" >
                                 <i className="fa fa-github-square fa-lg" aria-hidden="true" ></i>
                             </a>
                         </li>
-                        <li className='navbar-right'>
+                        <li className=''>
                             <a className='insta' title="follow me on instagram" href="http://www.instagram.com/hawkbrogen" target="_blank" >
                                 <i className="fa fa-instagram fa-lg" aria-hidden="true"></i>
                             </a>

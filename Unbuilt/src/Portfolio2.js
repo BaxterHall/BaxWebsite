@@ -18,6 +18,22 @@ class Portfolio2 extends React.Component {
                             <h1 className="portfolio-header">Previous Projects</h1>
                         </div>
                     </div>
+                       <div className='container-fluid bg-3 thumbs'>
+                        <div className='row'>
+                            <div className='col-sm-4'>
+                            </div>
+                            <div className='col-sm-4'>
+                                <a href="http://whatscookin.website/" target="_blank"><img src="image/whatsCooking.png" className='img-responsive whatsForDinner' alt="Whats For Dinner"/></a>
+                            <p>Created a web app using both server-side and client-side technologies that communicates with an API. Using authorization protocol for user's are able to register and create a account.
+                                Once logged in, users are able to browse for recipes based upon an ingredient they search with and save to a custom database. To accomplish this I used React, Express, MongoDB, HTML, CSS, and Javascript.</p>
+                        
+                            </div>
+
+                            <div className='col-sm-4'>
+                           
+                            </div>
+                        </div>
+
                     <div className='container-fluid bg-3 thumbs'>
                         <div className='row'>
                             <div className='col-sm-4'>
@@ -40,7 +56,7 @@ class Portfolio2 extends React.Component {
                     </div>
                     <Footer/>
                 </div>
-        
+            </div>
 
 
         )

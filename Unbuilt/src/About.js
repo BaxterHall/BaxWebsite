@@ -24,7 +24,7 @@ class About extends React.Component {
                                 In Winter 2017, I enrolled in the Web Development Bootcamp at Brainstation to transition into my next phase. While attending I found a passion that touches upon the same drive that the kitchen did. Motivating me to continue learning and creating.
                     </p>
                             <p className="about-me">
-                                When I'm not behind my laptop screen I can be found playing guitar with <a className='warmframes' target="_blank" href="https://youtu.be/Jf8dLMdOz-M">Warm</a><a className='warmframes' target="_blank" href="https://warmframes.bandcamp.com"> Frames</a>, reading a great book, <a className='photo' target="_blank" href='https://www.abaxterhallphoto.wordpress.com'>taking photos</a> or browsing the many record stores Toronto has to offer.
+                                When I'm not behind my laptop screen I can be found making music in a variety of genres, reading a great book, <a className='photo' target="_blank" href='https://www.abaxterhallphoto.wordpress.com'>taking photos</a> or browsing the many record stores Toronto has to offer.
                     </p>
                             <img className='music' src="image/music.jpg" alt="holdingasweetguitar" />
                         </div>

@@ -37,6 +37,24 @@ class Resume2 extends React.Component {
                         </div>
                         <div className='Work'>
                             <h3 className='workin'>Profesional Experience:</h3>
+
+                            <div className='NewcomBusiness'>
+                                <ul classname='newcom'>
+                                    <li><strong>Newcom Business Media</strong> - <em>Front End Web Developer & Email Marketing Specialist</em> - April 2017/Present -  Toronto, ON</li>
+                                    <p>Developed and managed websites for interhouse brands using Wordpress and responsive design.</p>
+                                    <ul>
+                                        <li>Created custom plugins, templates, and functions for Wordpress based sites.</li>
+                                        <li>Fixed front end bugs (HTML, CSS, Javascript errors (JQUERY), testing.</li> 
+                                        <li>UX tests to test the usability of mobile or websites.</li>
+                                        <li>Did on site SEO implementations to increase traffic to client websites.</li>
+                                        <li>Analyzed traffic and made necessary changes for a better user experience.</li>
+                                        <li>Implemented CASL compliant practices across all email marketing campaigns.</li>
+                                        <li>Consulted with clients for email marketing campaign planning.</li>
+                                        <li>Designed developed and implemented email marketing campaigns.</li>   
+                                    </ul>         
+                                </ul>
+                            </div>
+
                             <div className='development'>
                                 <ul className='webdev'>
                                     <li><strong>Freelance Web Developer</strong> - January 2017/Present - Toronto, ON</li>
@@ -50,11 +68,12 @@ class Resume2 extends React.Component {
                                 </ul>
 
                             </div>
+            
                             <div className='projects'>
                                 <h3 className='proj'>Previous Projects:</h3>
                                 <div className="cookin">
                                     <a className="whatscook" href="http://www.whatscookin.website" target="_blank">
-                                        <h4>Whats For Dinner?</h4>
+                                        <h4>Whats Cookin?</h4>
                                     </a>
                                     <ul>
                                         <li>Created a web app using both server-side and client-side technologies that communicates with an API.</li>

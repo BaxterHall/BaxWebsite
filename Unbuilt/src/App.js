@@ -8,7 +8,7 @@ class App extends Component {
         <div className='row'>
           <div className='col-xs-12 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3'>
             <div className="homeheader">
-              <h1 classname="baxter">Hello, I'm Baxter</h1>
+              <h1 classname="baxter">Hi, I'm Baxter</h1>
             </div>
             <img className="headshot" src='image/headshot.jpg' alt="headshot" />
             <div className="briefintro">
